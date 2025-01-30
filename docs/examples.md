@@ -119,6 +119,9 @@ This page links to examples of how to implement some things with the Epic Stack.
 - [Epic Stack + Hono](https://github.com/hakimLyon/epic-stack-hono) by
   [@hakimLyon](https://github.com/hakimLyon): An example of Epic Stack with
   Hono.
+- [Epic Stack + PostgreSQL](https://github.com/andreaspapav/epic-web-postgresql-example) by
+  [@andreaspapav](https://github.com/andreaspapav): An example of Epic Stack with
+  PostgreSQL.
 
 ## How to contribute
 
